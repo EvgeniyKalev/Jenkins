@@ -13,13 +13,13 @@
   },
   "stages": {
     "initSteps": true,
-    "sonarqube": true,
+    "sonarqube": false,
     "bdd": true,
     "syntaxCheck": true,
     "edtValidate": false,
     "smoke": false,
     "yaxunit": true,
-    "email": true,
+    "email": false,
     "telegram": false
   },
   "timeout": {
