@@ -24,7 +24,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus",
+      "path": "C:/1C/BaseDemoUP/StorageDemoUP1C/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.26.1521",
@@ -35,7 +35,7 @@
     {
         "name": "YAXUNIT",
         "extention": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
+        "path": "tC:/1C/BaseDemoUP/StorageDemoUP1C/StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
         "v8version": "8.3.26.1521",
