@@ -518,6 +518,7 @@
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
 			<Document>РеализацияТоваров</Document>
+			<Document>Документ1</Document>
 			<DocumentJournal>ДокументыПродаж</DocumentJournal>
 			<DocumentJournal>ФинансовыеДокументы</DocumentJournal>
 			<Enum>ВидыТоваров</Enum>
